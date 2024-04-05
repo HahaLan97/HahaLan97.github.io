@@ -24,14 +24,14 @@ author:
   avatar           : "Nani.jpg"
   name             : "Jiahong Bi"
   pronouns         : # example: "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "TU Dresden PhD Student working in MYRTUS project"
   location         : "Dresden, Germany"
   employer         : "Technische Universität Dresden"
   uri              : # URL
   email            : "jiahong.bi@tu-dresden.de" 
 
   # Academic websites
-  arxiv            : "https://cfaed.tu-dresden.de/ccc-staff/jiahong-bi" # URL - Update with the correct link to your profile
+  arxiv            : # "https://cfaed.tu-dresden.de/ccc-staff/jiahong-bi" # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=KbX_QtwAAAAJ"
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0002-5827-1148"
