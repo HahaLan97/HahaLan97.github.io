@@ -1,7 +1,10 @@
 ---
+layout: archive
 permalink: /
 title: "Under Consrtuction"
 author_profile: true
+redirect_from:
+  /
 ---
 
 <!---
