@@ -1,5 +1,3 @@
-# Under Construction
-<!---
 ---
 layout: archive
 title: "CV"
@@ -10,7 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+# Under Construction
 
+<!---
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
