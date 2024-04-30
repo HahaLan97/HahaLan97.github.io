@@ -1,10 +1,10 @@
 ---
-layout: archive
 permalink: /
-title: "Under Consrtuction"
+title: "Under Construction"
 author_profile: true
-redirect_from:
-  /
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 <!---
